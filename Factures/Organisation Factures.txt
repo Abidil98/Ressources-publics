@@ -1,0 +1,3 @@
+Voici comment seront reparties les factures :
+
+-/Enseigne/type-d-enseigne/Nombre-D'articles/pourcentage-de-TVA
